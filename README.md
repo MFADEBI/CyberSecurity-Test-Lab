@@ -19,6 +19,14 @@ Enabled bidirectional shared clipboard and drag-and-drop.
 Configured a shared Windows Downloads folder accessible from Kali Linux.
 Used Linux terminal commands to inspect network configuration and troubleshoot connectivity.
 
+Screenshots and Evidence
+1. Kali Linux IP Configuration
+   
+2. DNS Configuration Google Public DNS Configuration
+
+3. Shared Windows Downloads Folder Shared Downloads Folder
+
+
 Commands Used
 
 Check the IP address: ip -br address
