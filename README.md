@@ -1,5 +1,6 @@
 Cybersecurity-Test-Lab
 Project Overview
+
 This project documents my hands-on setup of a Kali Linux virtual machine using Oracle VirtualBox as part of my cybersecurity learning journey.
 The goal was to configure a dedicated lab environment with reliable network connectivity and essential virtual machine integration features.
  Lab Configuration- Operating System: Kali Linux
@@ -10,9 +11,10 @@ Kali Linux IP Address: 10.0.0.2/24
 DNS Server: Google Public DNS - 8.8.8.8
 
  Tasks Completed
+ 
 Configured a VirtualBox NAT Network.
 Configured and verified the required Kali Linux IP address.
-Tested internet connectivity and DNS resolution (changed DNS defaut from 1.1.1.1 to 8.8.8.8 Public)
+Tested internet connectivity and DNS resolution (changed DNS default from 1.1.1.1 to 8.8.8.8 Public)
 Enabled bidirectional shared clipboard and drag-and-drop.
 Configured a shared Windows Downloads folder accessible from Kali Linux.
 Used Linux terminal commands to inspect network configuration and troubleshoot connectivity.
