@@ -21,14 +21,18 @@ Used Linux terminal commands to inspect network configuration and troubleshoot c
 
 Commands Used
 
-Check the IP address:
-ip -br address
+Check the IP address: ip -br address
+
 Inspect DNS configuration: nmcli device show eth0 | grep IP4.DNS
+
 Test internet connectivity: ping -c 4 1.1.1.1
+
 Test DNS resolution: getent hosts google.com
+
 Access the shared folder: ls /media/sf_Downloads
 
 Skills Practiced
+
 - Linux administration
 - IP addressing and subnetting
 - NAT networking
